@@ -1,5 +1,6 @@
 # ConvNeXt_Ultrasound_Dual_Freq
 - We conducted several experiments on the dual frequency analysis of ultrasound images
+- Use a ConvNeXt model to classify the image label (needle or fascia)
 - High-Frequecy (HF) and Low-Frequecy (LF) might contains different information for needles and fascias in ultrasound image
 - See `dual_freq.ipynb`
 ***
