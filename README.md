@@ -2,6 +2,7 @@
 - We conducted several experiments on the dual frequency analysis of ultrasound images
   - Use a ConvNeXt model to classify the image label (needle or fascia)
 - Results
+  - Dual frequency images can improve the model's ability to differentiate the needle and fascia
   - High-Frequecy (HF) and Low-Frequecy (LF) might contains different information for needles and fascias in ultrasound image
 - See `dual_freq.ipynb`
 ***
